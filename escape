@@ -1,0 +1,210 @@
+[33mcommit 0978ce90670dce4acaee4fa2789903efbc268318[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Dec 11 05:56:07 2025 +0700
+
+    Commit all
+
+[33mcommit ebe17608e09c4d034c4147fbaa7b9b1978af5dc2[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Dec 11 05:52:51 2025 +0700
+
+    learn merge sort
+
+[33mcommit d3333b5ee8ad2e4cf429333e5d9fd16782289672[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Mon Dec 8 16:24:30 2025 +0700
+
+    New lesson: Sorting and Searching
+
+[33mcommit 5f7b1c7f35d1f94269775adff00f513c5454047a[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Dec 4 06:19:43 2025 +0700
+
+    finish bonus exercises in TH5_CS3.ipynb
+
+[33mcommit 214cb3ff1e3752eaa53786bb6900a2db13961fe4[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Wed Dec 3 21:02:10 2025 +0700
+
+    finish BT5 paper
+
+[33mcommit 773b01b64d3dd6f1d4142b5501ee92c59019ff02[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Dec 2 21:37:29 2025 +0700
+
+    New exercise
+
+[33mcommit 891332584e2b47be7d62b926356dbaa5a9a581f4[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Dec 2 20:14:32 2025 +0700
+
+    9 exercises finished
+
+[33mcommit 87af7a830e78a7ff2d513b301ea2332c57edb303[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Dec 2 10:59:28 2025 +0700
+
+    finish first 7 exercisesin the TH5_CS3.ipynb notebook
+
+[33mcommit f7d7b69bb501dfaf8a38fb2f3682cad7e7ffd9c2[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Dec 2 10:32:05 2025 +0700
+
+    i dont know
+
+[33mcommit 4d1d735616a34c6df97c6c7681d324c8d6cbfa9b[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Sun Nov 30 11:26:33 2025 +0700
+
+    Commit again due to errors in commit messages
+
+[33mcommit 36d323d0b7c3597b707c794524f603f8f49fc0a5[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Sun Nov 30 11:24:34 2025 +0700
+
+    Finish homework3 from 10 to 20
+
+[33mcommit 2bb14780d87fd6ead9ef8928e92183d4375c7ebe[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Fri Nov 28 11:57:56 2025 +0700
+
+    Finish the rest of the BTVN4.pdf
+
+[33mcommit 6fa15705a9e3c7e4b587e04ce5efc03b2e077853[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Fri Nov 28 07:52:38 2025 +0700
+
+    Doing homework: Currently at 11
+
+[33mcommit 0c7af57d6270650ea91a3fd1691fb3b926b8140d[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Nov 27 19:03:15 2025 +0700
+
+    6 and 7
+
+[33mcommit 23cb28f61e4092247500ce41c62e344bca5d6830[m
+Merge: 26b65e2 4f695f8
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Nov 27 16:31:18 2025 +0700
+
+    Merge branch 'main' of https://github.com/hoangmaituanhiep/HoangMaiTuanHiep_25021756_TDTT
+
+[33mcommit 26b65e2509e2bd6df26e9e2540e31286521fd37d[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Nov 27 16:29:44 2025 +0700
+
+    Finish first 5 exercises
+
+[33mcommit 7c92e9ed82f63104c0ffcf1fcb87f58b415f44b6[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Thu Nov 27 15:58:19 2025 +0700
+
+    new homework
+
+[33mcommit 4f695f81f68431c013c67f95bb44fc0426afc755[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Nov 25 10:41:33 2025 +0700
+
+    Create TH4_CS3.ipynb
+
+[33mcommit 9f2cf56ca2af962b51812ba8ede9cfd246e2cc08[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Oct 7 16:08:28 2025 +0700
+
+    Doing work at home
+
+[33mcommit 2d21f070c80eacc0ed382e3e6b9dc94ea7c5851b[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Oct 7 10:11:07 2025 +0700
+
+    new homework
+
+[33mcommit 555aa2f3c12531a4465af3b0bf51e86a8a310a7b[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 30 11:40:19 2025 +0700
+
+    debug
+
+[33mcommit 36ef0fd3d4c0b4934d6b8b7301f8790cfca2f6da[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 30 11:03:39 2025 +0700
+
+    new homework2
+
+[33mcommit 23c7a9813de5f183bf0cfc3375691f240c47be81[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 30 10:44:16 2025 +0700
+
+    debug
+
+[33mcommit c46b85f1637fa74adb1a703254ed2ea666c1aa5a[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 30 10:42:34 2025 +0700
+
+    Doing homework
+
+[33mcommit dd3fa8795f899a17cc6f38ee8d6da2a0d60cb0da[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Mon Sep 29 11:24:54 2025 +0700
+
+    Learned
+
+[33mcommit ee5a97e260959365fe098d7406793aba02e508bd[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Mon Sep 29 09:57:44 2025 +0700
+
+    New Lecture
+
+[33mcommit 4e61ade95c6a2d85d3fc22b700bd9fae7049999c[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 16:03:27 2025 +0700
+
+    Update homework1.ipynb
+
+[33mcommit 12718051616d80b8a0e85c31f8c310f173f92af2[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 12:04:21 2025 +0700
+
+    ok
+
+[33mcommit 5cb54eec724a732536e50aeef5e55a77bc3a1c2d[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 11:57:38 2025 +0700
+
+    make homework1.ipynb
+
+[33mcommit 6cab9772b553bc6235f185ebbec17a008ce80779[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 11:33:28 2025 +0700
+
+    lmao
+
+[33mcommit 19bb7622f07f9b5e23a0a664cf68a5b759456476[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 11:32:46 2025 +0700
+
+    Finish homework
+
+[33mcommit b0e000c16b748ae263d8f0abb63918f2c44096c6[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 11:26:28 2025 +0700
+
+    Doing some homework
+
+[33mcommit d38cf862042c99c809884d425f52b328344b6d9f[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 10:39:50 2025 +0700
+
+    lmao
+
+[33mcommit d19977b9f94966379e46f73ef9048ff241198e81[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 10:05:15 2025 +0700
+
+    init
+
+[33mcommit 521dbf04eff1d2df674ee8737fc595d59fc15573[m
+Author: Heip <toidungoutlook@gmail.com>
+Date:   Tue Sep 23 10:00:49 2025 +0700
+
+    Initial commit
